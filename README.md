@@ -1,7 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <h1> Hello There! <img src="https://github.com/Roxiun/Roxiun/blob/master/img/general_kenobi.png?raw=true" width="40px"></h2>
+</div>
+
+description yay
+
+![Tacoz's github stats](https://github-readme-stats.vercel.app/api?username=nottacoz&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottacoz&layout=compact&theme=radical)
 
 <!--
-**NotTacoz/NotTacoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Roxiun/Roxiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

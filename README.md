@@ -1,9 +1,9 @@
 <div align="center">
-  <h1> <img src="https://cdn.discordapp.com/emojis/743099804279898143.gif?v=1" width="40px"> Welcome to my github! <img src="https://cdn.discordapp.com/emojis/743099804279898143.gif?v=1" width="40px">
+  <h1> <img src="https://cdn.discordapp.com/emojis/743099804279898143.gif?v=1" width="35px"> Welcome to my github! <img src="https://cdn.discordapp.com/emojis/743099804279898143.gif?v=1" width="35px">
   </h1>
 </div>
 
-<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="40px"> This readme file is incomplete.
+<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="20px"> This readme file is incomplete.
 - 🔭 I’m currently working on TacoBot (Private Repo)
 - 🌱 I’m currently learning [Hypixel API] (https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/)
 - 👯 I’m looking to collaborate on N/A

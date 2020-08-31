@@ -10,10 +10,9 @@
       width="35px"
     />
   </h1>
+    <h2>趣味で「プログラマー」をやっている者だ</h2> 
+    <h2>I'm a guy who's a programmer for fun.</h2>
 </div>
-
-<h1>趣味で「プログラマー」をやっている者だ</h1> 
-<h1>I'm a guy who's a programmer for fun.</h1>
 
 <ul>
     <li>🔭 I’m currently working on TacoBot (Private Repo)</li>

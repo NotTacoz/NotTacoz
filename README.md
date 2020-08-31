@@ -20,7 +20,10 @@ I'm a guy who's a programmer for fun.
 
 
 ![Tacoz's github stats](https://github-readme-stats.vercel.app/api?username=nottacoz&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottacoz&layout=compact&theme=chartreuse-dark)
+
+<img src="https://ibsintelligence.com/wp-content/uploads/2020/05/pp_v_rgb.png" width="20px"> Like my stuff? [Donate](https://ko-fi.com/tacoz)
 
 <img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="20px"> THIS README.MD FILE IS INCOMPLETE.
 

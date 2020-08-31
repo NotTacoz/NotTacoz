@@ -17,9 +17,9 @@
 
 <ul>
     <li>🔭 I’m currently working on TacoBot (Private Repo)</li>
-    <li>🌱 I’m currently learning [Hypixel API](https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/)</li>
+    <li>🌱 I’m currently learning: <a href="https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/" target="_blank">Hypixel API</a></li>
     <li>💬 Ask me about TacoBot</li>
-    <li>📫How to reach me: [My discord server!](https//discord.io/tacoz)</li>
+    <li>📫How to reach me: <a href="https://discord.io/tacoz" target="_blank">My discord server!</a></li>
     <li>😄 Pronouns: Him / He</li>
     <li>⚡Fun fact: Latin and Irish have no words for "yes" or "no."</li>
 </ul>

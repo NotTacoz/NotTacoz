@@ -4,8 +4,10 @@
 </div>
 
 
-趣味で「プログラマー」をやっている者だ。\n
+趣味で「プログラマー」をやっている者だ
+
 I'm a guy who's a programmer for fun.
+
 - 🔭 I’m currently working on TacoBot (Private Repo)
 - 🌱 I’m currently learning [Hypixel API](https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/)
 - 💬 Ask me about TacoBot
@@ -20,7 +22,7 @@ I'm a guy who's a programmer for fun.
 ![Tacoz's github stats](https://github-readme-stats.vercel.app/api?username=nottacoz&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottacoz&layout=compact&theme=chartreuse-dark)
 
-<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="20px"> THIS README.MD FILE IS INCOMPLETE.\n
+<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="20px"> THIS README.MD FILE IS INCOMPLETE.
 
 <!--
 **NotTacoz/NotTacoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

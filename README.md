@@ -4,10 +4,13 @@
 </div>
 
 <img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="20px"> This readme file is incomplete.
+趣味で「プログラマー」をやっている者だ。
+I'm a guy who's a programmer for fun.
 - 🔭 I’m currently working on TacoBot (Private Repo)
 - 🌱 I’m currently learning [Hypixel API](https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/)
-- 👯 I’m looking to collaborate on N/A
+<!-- - 👯 I’m looking to collaborate on N/A
 - 🤔 I’m looking for help with N/A
+-->
 - 💬 Ask me about TacoBot
 - 📫 How to reach me: [My discord server!](https//discord.io/tacoz)
 - 😄 Pronouns: Him / He

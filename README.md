@@ -15,9 +15,9 @@
 </div>
 
 <ul>
-    <li>🔭 I’m currently working on TacoBot (Private Repo)</li>
+    <li>🔭 I’m currently working on <a href="https://github.com/NotTacoz/TacoBot" target="_blank">TacoBot</a></li>
     <li>🌱 I’m currently learning: <a href="https://hypixel.net/threads/guide-using-the-hypixel-api-with-python.2596749/" target="_blank">Hypixel API</a></li>
-    <li>💬 Ask me about TacoBot</li>
+  <li>💬 Ask me about <a href="https://github.com/NotTacoz/TacoBot" target="_blank">TacoBot</a></li>
     <li>📫How to reach me: <a href="https://discord.io/tacoz" target="_blank">My discord server!</a></li>
     <li>😄 Pronouns: Him / He</li>
     <li>⚡Fun fact: Latin and Irish have no words for "yes" or "no."</li>

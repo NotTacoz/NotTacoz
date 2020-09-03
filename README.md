@@ -14,7 +14,7 @@
     <h2>I'm a guy who's a programmer for fun.</h2>
 </div>
 
-🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="24">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="24">HTML5. My tools are Git Bash and VSCode
+🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="18">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="18">HTML5. My tools are Git Bash and VSCode
 
 I am also planning to get started learning Unity and Blender, as well as C, Java and PHP
 

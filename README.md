@@ -14,7 +14,7 @@
     <h2>I'm a guy who's a programmer for fun.</h2>
 </div>
 
-🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="18px">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="18px">HTML5. My tools are Git Bash and VSCode
+🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="16px">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="16px">HTML5. My tools are Git Bash and VSCode
 
 I am also planning to get started learning Unity and Blender, as well as C, Java and PHP
 
@@ -27,9 +27,9 @@ I am also planning to get started learning Unity and Blender, as well as C, Java
     <li>⚡Fun fact: Latin and Irish have no words for "yes" or "no."</li>
 </ul>
 
-<img src="https://ibsintelligence.com/wp-content/uploads/2020/05/pp_v_rgb.png" width="20px"/> Like my stuff? [Donate (yes im a sellout)](https://ko-fi.com/tacoz)
+<img src="https://ibsintelligence.com/wp-content/uploads/2020/05/pp_v_rgb.png" width="16px"/> Like my stuff? [Donate (yes im a sellout)](https://ko-fi.com/tacoz)
 
-<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="18px">THIS README.MD FILE IS INCOMPLETE.
+<img src="https://media.tenor.com/images/ef1cfa38bfa0d9d01fa77d3166dfa9a9/tenor.gif" width="16px">THIS README.MD FILE IS INCOMPLETE.
 
   <a href="">
     <img

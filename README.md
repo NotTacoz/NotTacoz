@@ -10,7 +10,7 @@
       width="35px"
     />
   </h1>
-    <h2>趣味で「プログラマー」をやっている者だ</h2> 
+    <h2>俺は趣味で「プログラマー」をやっている者だ</h2> 
     <h2>I'm a guy who's a programmer for fun.</h2>
 </div>
 

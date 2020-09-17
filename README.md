@@ -16,7 +16,22 @@
 
 🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="16px">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="16px">HTML5. My tools are Git Bash and VSCode
 
-I am also planning to get started learning Unity and Blender, as well as C, Java and PHP
+
+I've used these languages:
+<div>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+</div>
+
+
+I've used these tools:
+<div>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0766B7">
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge">
+</div>
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/NotTacoz/TacoBot" target="_blank">TacoBot</a></li>

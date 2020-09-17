@@ -19,18 +19,32 @@
 
 I've used these languages:
 <div>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
+  </a>
+  <a href="https://www.w3schools.com/html/default.asp">
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+  </a>
 </div>
 
 
 I've used these tools:
 <div>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0766B7">
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0766B7">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git">
+  </a>
+  <a href="https://github.com/NotTacoz">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/psf/black">
+    <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge">
+  </a>
 </div>
 
 <ul>

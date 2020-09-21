@@ -30,7 +30,6 @@ I've used these languages:
   </a>
 </div>
 
-
 I've used these tools:
 <div>
   <a href="https://code.visualstudio.com/">
@@ -47,6 +46,7 @@ I've used these tools:
   </a>
 </div>
 
+<br>
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/NotTacoz/TacoBot" target="_blank">TacoBot</a></li>

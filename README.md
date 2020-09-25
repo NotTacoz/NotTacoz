@@ -14,6 +14,11 @@
     <h2>I'm a guy who's a programmer for fun.</h2>
 </div>
 
+<a href="https://github.com/NotTacoz/TacoBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotTacoz&repo=TacoBot&theme=chartreuse-dark">
+</a>
+
+
 🌟 Welcome to my github profile! I am [Tacoz](https://youtube.com/tacozlmao) and I'm a HS student/developer that mainly focuses on <img src="https://www.python.org/static/opengraph-icon-200x200.png" width="16px">Python & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="16px">HTML5. My tools are Git Bash and VSCode
 
 
@@ -71,6 +76,12 @@ I've used these tools:
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottacoz&layout=compact&theme=chartreuse-dark"
+    />
+  </a>
+  <a href="">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=NotTacoz&theme=chartreuse-dark"
     />
   </a>
 

@@ -78,7 +78,7 @@ I've used these tools:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottacoz&layout=compact&theme=chartreuse-dark"
     />
   </a>
-  <a href="">
+  <a href="https://github.com/NotTacoz/NotTacoz">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=NotTacoz&theme=chartreuse-dark"

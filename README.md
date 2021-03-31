@@ -10,8 +10,7 @@
       width="35px"
     />
   </h1>
-    <h2>俺は趣味で「プログラマー」をやっている者だ</h2> 
-    <h2>I'm a guy who's a programmer for fun.</h2>
+    <h2>haha keyboard go brrrrrrrrrrrrrrr</h2>
 </div>
 
 <a href="https://github.com/NotTacoz/TacoBot">

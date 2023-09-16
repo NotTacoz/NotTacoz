@@ -1,3 +1,3 @@
-idk
+Checkout my [startpage](https://nottacoz.github.io/startpage/), or my [school notes](https://nottacoz.github.io/jacaranda/)!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotTacoz.NotTacoz)
+![](https://moe-counter.glitch.me/get/@NotTacoz)
